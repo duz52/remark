@@ -236,7 +236,7 @@ The list of plugins:
 * 🟢 [`remark-math`](https://github.com/remarkjs/remark-math)
   — new syntax for math (new node types, rehype compatible)
 * 🟢 [`remark-math-extended`](https://github.com/duz52/remark-math-extended)
-  — support dollar and TeX-style math delimiters (rehype compatible)
+  — support dollar and TeX-style math delimiters
 * 🟢 [`remark-mdx`](https://github.com/mdx-js/mdx/tree/main/packages/remark-mdx)
   — support MDX (JSX, expressions, ESM)
 * 🟢 [`remark-mentions`](https://github.com/FinnRG/remark-mentions)
